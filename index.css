@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 20px;
+}
+
+img {
+  height: 700px;
+  width: 700px;
+  align-items: center;
+  padding-right: 50%;
+  object-fit: scale-down;
+  max-width: 80%;
+  max-height: 60%;
+}
