@@ -3,6 +3,7 @@ body {
   padding: 20px;
 }
 
+/* Responsive image */
 img {
   height: 700px;
   width: 700px;
@@ -11,4 +12,9 @@ img {
   object-fit: scale-down;
   max-width: 80%;
   max-height: 60%;
+}
+
+/* to hide the classes */
+.hide {
+  display: none;
 }
